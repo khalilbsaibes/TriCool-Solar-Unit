@@ -62,7 +62,7 @@ All hardware design files are licensed under the **CERN Open Hardware Licence Ve
 * 3D models (`.step`, `.stl`)
 * The Bill of Materials (BOM)
 
-This source describes Open Hardware and is licensed under the CERN-OHL-S v2.0. You may redistribute and modify this design under the terms of the CERN-OHL-S v2.0. This project is distributed WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the `LICENSE.txt` file for full details.
+This source describes Open Hardware and is licensed under the CERN-OHL-S v2.0. You may redistribute and modify this design under the terms of the CERN-OHL-S v2.0. This project is distributed WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the `LICENSE` file for full details.
 
 #### Documentation, Images, and Software
 
@@ -77,7 +77,7 @@ Under this license, you are free to:
 * **Share** — copy and redistribute the material in any medium or format
 * **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
 
-This must be done while giving appropriate credit and indicating if changes were made. See the `LICENSE-DOC.txt` file for full details.
+This must be done while giving appropriate credit and indicating if changes were made. See the `LICENSE-DOC` file for full details.
 
 ### 🙌 Acknowledgments
 
