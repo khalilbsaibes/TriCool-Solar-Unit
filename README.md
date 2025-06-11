@@ -49,6 +49,15 @@ A modular, solar-powered cooling tile designed for off-grid applications in cara
 | External Fan      | 12V CPU fan + heatsink |    1    |
 | Copper Rod (opt.) | 6–10mm diameter        |    1    |
 
+> 🧊 **Note on Insulation:**  
+> We use **aerogel** insulation in this design for its exceptional performance. While current aerogel sheets can be costly, we expect prices to become more affordable over time. Meanwhile, you may use more accessible alternatives such as:
+> - **Polyurethane foam** (R‑value ~6 / inch)
+> - **Extruded polystyrene (XPS)** boards (R‑value ~5 / inch)
+> - **Expanded polystyrene (EPS)** panels (R‑value ~4 / inch)
+> - **Reflective bubble insulation** foil
+>
+> These materials will work well, though with slightly reduced thermal performance compared to aerogel.
+
 ### 📜 License
 
 This project is dual-licensed. The license that applies depends on the part of the project being used.
